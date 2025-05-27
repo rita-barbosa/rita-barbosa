@@ -2,11 +2,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hello  
 
-I’m a final-year **Software Engineering student** at [ISEP](https://www.isep.ipp.pt/), passionate about **Artificial Intelligence** and **Software Development**. My journey in technology has been fueled by curiosity and a drive to innovate, constantly improving Software and expanding my knowledge.
+I’m a final-year **Software Engineering student** at [ISEP](https://www.isep.ipp.pt/), passionate about **Software Development**. My journey in technology has been fueled by curiosity and a drive to innovate, constantly improving Software and expanding my knowledge.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> About Me  
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Currently diving deeper into **AI**, with plans to pursue a **Master's Degree in Artificial Intelligence**.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" /> Experienced in working on team-based projects, building creative solutions, and delivering efficient, reliable code.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> **Music enthusiast** — Currently listening to Tyler, The Creator, Wasia Project and Billie Eilish. 🎧  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" alt="Film Projector" width="25" height="25" /> **Movie buff** — Big fan of discovering new films and series that inspire me.  
@@ -19,8 +18,8 @@ I’m a final-year **Software Engineering student** at [ISEP](https://www.isep.i
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> What I’m Working On  
 
-- Expanding my AI knowledge through hands-on projects and self-study.  
-- Open to collaborations on **AI-powered apps** or innovative software projects.  
+- Expanding my knowledge through hands-on projects and self-study.  
+- Open to collaborations on innovative software projects.  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> My Goals  
 
